@@ -1,17 +1,19 @@
 # Hi 👋, I'm Muhammad Asad
 
-### Full-Stack & Mobile App Developer
+### Mobile App Developer (Capacitor & React Native) | Full-Stack Engineer | AI Automation Enthusiast
 
 I specialize in building and deploying modern web and mobile applications using React, Next.js, Capacitor, React Native, Supabase, Firebase, and TypeScript.
 
+Alongside mobile and web development, I help businesses automate workflows using AI-powered solutions, including chatbots, speech-to-text systems, AI integrations, automation pipelines, and productivity tools.
+
 My primary focus is helping startups and businesses:
 
-- 📱 Convert existing web apps into iOS & Android apps
-- 🚀 Build cross-platform mobile applications
+- 📱 Convert web apps into iOS & Android apps
+- 🚀 Build scalable SaaS and mobile products
 - 🍎 Publish apps to the App Store & Google Play
 - 💳 Integrate payments, subscriptions, and push notifications
-- ⚡ Develop scalable frontend and backend systems
-- 🤖 Implement AI-powered features and automation workflows
+- 🤖 Build AI-powered features and automation workflows
+- ⚡ Streamline operations through AI-assisted processes
 
 ---
 

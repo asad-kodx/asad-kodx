@@ -1,208 +1,101 @@
-# Hi 👋, I'm Muhammad Asad
+<h1 align="center">Muhammad Asad</h1>
 
-### Mobile App Developer (Capacitor & React Native) | Full-Stack Engineer | AI Automation Enthusiast
+<p align="center">
+  <strong>Mobile &amp; Full-Stack Engineer</strong> · Capacitor &amp; React Native Specialist · AI Integration Engineer
+</p>
 
-I specialize in building and deploying modern web and mobile applications using React, Next.js, Capacitor, React Native, Supabase, Firebase, and TypeScript.
-
-Alongside mobile and web development, I help businesses automate workflows using AI-powered solutions, including chatbots, speech-to-text systems, AI integrations, automation pipelines, and productivity tools.
-
-My primary focus is helping startups and businesses:
-
-- 📱 Convert web apps into iOS & Android apps
-- 🚀 Build scalable SaaS and mobile products
-- 🍎 Publish apps to the App Store & Google Play
-- 💳 Integrate payments, subscriptions, and push notifications
-- 🤖 Build AI-powered features and automation workflows
-- ⚡ Streamline operations through AI-assisted processes
+<p align="center">
+  <a href="https://github.com/asad-kodx"><img src="https://img.shields.io/badge/GitHub-asad--kodx-181717?style=flat&logo=github" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Capacitor-Expert-119EFF?style=flat&logo=capacitor" alt="Capacitor">
+  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2EA44F?style=flat" alt="Open to Work">
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## About
 
-### 📱 Mobile Development
+I'm a mobile and full-stack engineer who ships production applications across web, iOS, and Android. My focus is taking products from codebase to live store listing — converting web apps into native mobile experiences with Capacitor and React Native, architecting scalable SaaS platforms, and handling the full release lifecycle through the App Store and Google Play.
 
-- Capacitor (Expert)
-- Ionic + Capacitor
-- React Native
-- Android (Kotlin)
-- iOS (Swift / SwiftUI)
-- App Store Connect
-- Google Play Console
-- TestFlight Deployment
-- Push Notifications (FCM, APNs, OneSignal)
-- RevenueCat
-- StoreKit & Google Play Billing
+Beyond delivery, I integrate AI-powered features and automation into real products: chatbots, speech-driven workflows, and LLM-backed tooling that move the needle on operational efficiency.
 
-### 🌐 Frontend Development
+I work with startups and established teams to:
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Vite
-- Tailwind CSS
-- Vue.js
-- Nuxt.js
-- Quasar Framework
-
-### ⚙️ Backend Development
-
-- Node.js
-- Express.js
-- Supabase
-- Firebase
-- PostgreSQL
-- REST APIs
-- JWT Authentication
-- OAuth
-- Firebase Auth
-- Edge Functions
-
-### 🤖 AI & Automation (Beginner–Intermediate)
-
-- OpenAI API Integration
-- Claude API Integration
-- Gemini API Integration
-- AI Chatbots
-- Prompt Engineering
-- Speech-to-Text Features
-- Text-to-Speech Features
-- AI Workflow Automation
-- Basic RAG Implementations
-- AI Agents & Tool Integrations
-- AI Features for Mobile & Web Applications
-
-### ☁️ DevOps & Deployment
-
-- Vercel
-- Cloudflare Pages
-- Firebase Hosting
-- GitHub Actions
-- CI/CD Pipelines
-- Xcode
-- Android Studio
+- Convert web applications into production-ready iOS & Android apps
+- Architect and ship scalable SaaS and mobile products
+- Manage end-to-end App Store & Google Play submission and release
+- Integrate payments, subscriptions, and push notification infrastructure
+- Build AI-powered features and automation pipelines
+- Drive long-term product development and maintenance
 
 ---
 
-## 💼 Specialized Experience
+## Published Work
 
-### 📲 Web-to-Mobile App Conversion
-
-I help businesses convert existing web applications into production-ready iOS and Android apps using Capacitor.
-
-Experience with:
-
-- Lovable
-- Base44
-- React Applications
-- Vue / Quasar Applications
-- PWAs
-- SaaS Platforms
-
-### 🍎 App Store & Google Play Publishing
-
-- App Store Submission
-- Google Play Submission
-- TestFlight
-- Internal Testing
-- Provisioning Profiles
-- Certificates & Signing
-- Review Issue Resolution
-- Release Management
-
-### 💳 Payments & Subscriptions
-
-- Stripe
-- RevenueCat
-- Apple In-App Purchases
-- Google Play Billing
-- Subscription Management
-
-### ❤️ Health & Device Integrations
-
-- HealthKit
-- Health Connect
-- Geolocation
-- Camera
-- Biometrics
-- Local Notifications
-- Push Notifications
-
-### 🎙️ Voice & Audio Applications
-
-- Speech-to-Text
-- Voice-Controlled Features
-- Audio Recording
-- AI-Powered Voice Workflows
+| App | Description | Store |
+|-----|-------------|-------|
+| **Morphood** | Personalized nutrition and recipe platform | [App Store](https://apps.apple.com/us/app/morphood-personalize-recipes/id1616706707) |
+| **UMPT** | Production iOS application | [App Store](https://apps.apple.com/us/app/umpt/id6754943765) |
 
 ---
 
-## 📱 Published Apps
+## Core Expertise
 
-### Morphood
-Personalized nutrition and recipe platform.
+### Mobile Engineering
+Capacitor (expert) · Ionic · React Native · Swift / SwiftUI · Kotlin · App Store Connect · Google Play Console · TestFlight · Provisioning, Certificates & Signing · Release Management · Review Issue Resolution
 
-🔗 https://apps.apple.com/us/app/morphood-personalize-recipes/id1616706707
+### Frontend
+React · Next.js · Vue · Nuxt · Quasar · TypeScript · JavaScript · Vite · Tailwind CSS
 
-### UMPT
-Published on the Apple App Store.
+### Backend
+Node.js · Express · Supabase · Firebase · PostgreSQL · REST APIs · JWT / OAuth · Edge Functions
 
-🔗 https://apps.apple.com/us/app/umpt/id6754943765
+### Payments & Subscriptions
+Stripe · RevenueCat · Apple In-App Purchases · Google Play Billing · StoreKit · Subscription Management
 
----
+### Notifications & Device Integrations
+FCM · APNs · OneSignal · HealthKit · Health Connect · Geolocation · Camera · Biometrics · Local & Push Notifications
 
-## 🛠 Current Stack
+### AI & Automation
+OpenAI · Claude · Gemini · AI Chatbots · Prompt Engineering · Speech-to-Text & Text-to-Speech · RAG · AI Agents & Tool Integrations · Workflow Automation
 
-```text
-Mobile:
-Capacitor • Ionic • React Native • Swift • Kotlin
-
-Frontend:
-React • Next.js • Vue • Nuxt • Quasar
-TypeScript • JavaScript • Tailwind CSS
-
-Backend:
-Node.js • Express • Supabase • Firebase
-PostgreSQL
-
-AI:
-OpenAI • Claude • Gemini
-Speech-to-Text • AI Chatbots • Basic RAG
-
-Deployment:
-Vercel • Cloudflare • Firebase Hosting
-App Store Connect • Google Play Console
-```
+### DevOps & Deployment
+Vercel · Cloudflare Pages · Firebase Hosting · GitHub Actions · CI/CD · Xcode · Android Studio
 
 ---
 
-## 📊 GitHub Stats
+## What I Build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asad-kodx&show_icons=true&theme=tokyonight)
+**Web-to-Mobile Conversion** — Production-grade native apps from existing web codebases (React, Vue/Quasar, PWAs, SaaS platforms, Lovable, Base44) using Capacitor.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asad-kodx&layout=compact&theme=tokyonight)
+**Store Publishing & Release** — Full submission lifecycle across the App Store and Google Play: TestFlight and internal testing, signing and provisioning, review resolution, and ongoing release management.
 
----
+**Monetization** — Stripe, RevenueCat, and native in-app purchase flows with robust subscription handling.
 
-## 🤝 Let's Connect
-
-- GitHub: https://github.com/asad-kodx
-- LinkedIn: *Add your LinkedIn URL*
-- Email: *Add your Email Address*
+**AI-Powered Features** — LLM integrations, voice and audio workflows, chatbots, and automation built directly into mobile and web products.
 
 ---
 
-### 🚀 Open for Opportunities
+## GitHub Activity
 
-I'm available for:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asad-kodx&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
 
-- Mobile App Development
-- Capacitor Projects
-- React & Next.js Development
-- Web-to-Mobile Conversions
-- App Store & Play Store Publishing
-- Subscription & Payment Integrations
-- AI Feature Integration
-- Long-Term Product Development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-kodx&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
 
-⭐ Feel free to connect, collaborate, or discuss your next project.
+---
+
+## Connect
+
+- **GitHub** — [asad-kodx](https://github.com/asad-kodx)
+- **LinkedIn** — *add your URL*
+- **Email** — *add your email*
+
+---
+
+<p align="center">
+  <strong>Available for new projects</strong> — mobile development, web-to-mobile conversions, store publishing, payment integrations, AI features, and long-term product work.
+</p>
